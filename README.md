@@ -5,4 +5,4 @@ My final project, along with partner Betto Cerrillos, of UCLA course Electrical 
 | Assignment | Score |
 | ------------- | ----- |
 | Difficulty & Success | 100 |
-| Project Report | 100 |
+| Project Report | 91 |
